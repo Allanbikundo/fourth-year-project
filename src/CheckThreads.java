@@ -1,7 +1,7 @@
 /*Class to check which station's frame the current transmission is colliding with.
 
  */
-public class CheckThreads implements ChannelConstants {
+public class CheckThreads {
     public static int checking(String StationName)
     {   int stat;
         switch (StationName)
