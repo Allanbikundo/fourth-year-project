@@ -35,4 +35,6 @@ public class Channel {
     public void setNumberOfSuccessfulTransmissions() {
         this.numberOfSuccessfulTransmissions++;
     }
+
+    //add thread ud
 }
