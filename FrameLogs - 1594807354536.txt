@@ -1,0 +1,10 @@
+The number of frames for Station 1 are 10
+The number of frames for Station 2 are 10
+The number of frames for Station 3 are 10
+The number of frames for Station 4 are 10
+The number of frames for Station 5 are 10
+The number of frames for Station 6 are 10
+The number of frames for Station 7 are 10
+The number of frames for Station 8 are 10
+The number of frames for Station 9 are 10
+The number of frames for Station 10 are 10

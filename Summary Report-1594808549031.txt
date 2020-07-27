@@ -1,0 +1,34 @@
+REPORT
+========================================
+NORMAL CSMA/CD
+========================================
+Number of successful transmissions: 40
+Number of collisions: 7
+total number of trials: 47
+Efficiency: 0.851063829787234
+========================================
+
+
+========================================
+BAD CSMA/CD========================================
+Number of successful transmissions: 120
+Number of collisions: 16
+total number of trials: 136
+Efficiency: 0.8823529411764706
+========================================
+
+
+========================================
+ZACK'S========================================
+Number of successful transmissions: 80
+Number of collisions: 12
+total number of trials: 92
+Efficiency: 0.8695652173913043========================================
+
+
+========================================
+===============SUMMARY==================
+========================================
+Zack's took 17 seconds
+CSMA/CD took 21 seconds
+Bad CSMA/CD took 19 seconds

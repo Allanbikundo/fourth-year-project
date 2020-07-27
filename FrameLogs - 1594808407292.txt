@@ -1,0 +1,5 @@
+The number of frames for Station 1 are 10
+The number of frames for Station 2 are 10
+The number of frames for Station 3 are 10
+The number of frames for Station 4 are 10
+The number of frames for Station 5 are 10

@@ -20,6 +20,10 @@ public class Channel {
         return singletonChannelInstance;
     }
 
+    public void resetInstance() {
+        singletonChannelInstance = new Channel();
+    }
+
     public int getNumberOfCollisions() {
         return numberOfCollisions;
     }

@@ -1,0 +1,7 @@
+{
+  "totalNumberOfTrials": 92,
+  "numberOfCollisions": 12,
+  "numberOfSuccessfulTransmissions":80,
+  "numberOfNodes":4
+  
+}
